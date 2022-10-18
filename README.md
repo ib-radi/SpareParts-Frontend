@@ -1,2 +1,2 @@
-# SpareParts-Fromtend
+# SpareParts-Frontend
 Graduation Project ITI
